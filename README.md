@@ -22,7 +22,7 @@ This is an open source project to unlock a pptx file encrypted with a password a
 
 Please download the executable file directly from the [release](https://github.com/SuperMaxine/pptx_unlocker/releases/tag/pptx_unlocker) link, which is available for 64-bit Windows hosts
 
-1. Double click on the .exe file to open the application, it is a single file application, so you can open it anywhere you want
+1. Double click on the `.exe` file to open the application, it is a single file application, so you can open it anywhere you want
    
    ![image-20210316225319051.png](https://i.loli.net/2021/03/16/ZHUxW28uN4njK15.png)
 
@@ -43,7 +43,6 @@ Please download the executable file directly from the [release](https://github.c
 2. Go to the project directory and run `pip install -r requirements.txt` to install the dependencies, the main ones are as follows:
 
    ```txt
-   pyinstaller==4.2
    PyQt5==5.15.2
    pyqt5-tools==5.15.2.3.0.2
    (optional)pyinstaller==4.2
