@@ -1,6 +1,6 @@
 # pptx_unlocker
 
-![image-20210316225319051.png](https://i.loli.net/2021/03/16/ZHUxW28uN4njK15.png)
+<img src="https://i.loli.net/2021/03/16/rBZ1lUDLpAVsYd7.png" alt="powerpoint.png" style="zoom:25%;" />
 
 [![GitHub issues](https://img.shields.io/github/issues/SuperMaxine/pptx_unlocker)](https://github.com/SuperMaxine/pptx_unlocker/issues)[![GitHub forks](https://img.shields.io/github/forks/SuperMaxine/pptx_unlocker)](https://github.com/SuperMaxine/pptx_unlocker/network)[![GitHub stars](https://img.shields.io/github/stars/SuperMaxine/pptx_unlocker)](https://github.com/SuperMaxine/pptx_unlocker/stargazers)[![GitHub license](https://img.shields.io/github/license/SuperMaxine/pptx_unlocker)](https://github.com/SuperMaxine/pptx_unlocker)
 
