@@ -32,7 +32,7 @@ Please download the executable file directly from the [release](https://github.c
 3. Waiting for the processing
    
    ![image-20210316225858692.png](https://i.loli.net/2021/03/16/qSYP2UbFDrst9a5.png)
-4. And BOOM!! The files are all unlock, enjoy!
+4. And BOOM!! The files are all unlocked, enjoy!
    
    ![image-20210316225947592.png](https://i.loli.net/2021/03/16/jGNlhoJWvr9VCtT.png)
 
