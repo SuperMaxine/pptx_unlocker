@@ -49,3 +49,5 @@ Please download the executable file directly from the [release](https://github.c
    ```
 
 3. Theoretically you can run `python3 main.py` to open the GUI application, be aware that the python version needs to be as close to 3.8 as possible, if you encounter any problems feel free to send me an issue
+
+4. If you want to generate the exe by pyinstaller package yourself, note that you have to modify the spec file, please see https://www.cnblogs.com/darcymei/p/9397173.html for details

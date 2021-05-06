@@ -27,7 +27,7 @@ def remove_dir(dir):
 
 def unlock_pptx(file_path="test.pptx"):
     file_data = ""
-    re_rule = re.compile(r'<p:modify.*=="/>')
+    re_rule = re.compile(r'<p:modify.*?/>')
 
     with zipfile.ZipFile(file_path) as azip:
         azip.extractall('tmp/')
